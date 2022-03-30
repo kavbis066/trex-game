@@ -7,6 +7,5 @@ In this game I am using the concept of the chrome trex-game, hence I am using bo
 I have taken reference from a tutorial by [Ania Kubow](https://www.youtube.com/watch?v=dQ6lYd6dyTI)
 
 ### Changes to be made:
-- To add a proper background and objects as in chrome dino game
 - Some of the similar functions on arrow up and down keys.
 - Adding scores
